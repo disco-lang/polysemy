@@ -16,7 +16,7 @@ maintainer:     https://funprog.zulipchat.com/#narrow/stream/216942-Polysemy
 copyright:      2019-2023 The Polysemy Lounge
 license:        BSD3
 license-file:   LICENSE
-build-type:     Custom
+build-type:     Simple
 extra-source-files:
     README.md
     ChangeLog.md
